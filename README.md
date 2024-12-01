@@ -44,7 +44,7 @@ sprint_planner/
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu_usuario/sprint_planner.git
+git clone git@github.com:raulbatalha/sprint_planner.git
 cd sprint_planner
 ```
 
